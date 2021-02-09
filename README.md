@@ -1,4 +1,4 @@
-# justsleep10s
+# justsleep
 Simple docker image which just sleep n seconds using alpine
 
 ## Docker hub
