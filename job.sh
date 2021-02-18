@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-for i in `seq 1 180`;
+for i in `seq 1 5`;
 do
     echo $i
     i=$((i+1))
